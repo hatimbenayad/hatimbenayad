@@ -3,16 +3,16 @@
 <h2>👋 Hey Everyone, I'm Hatim</h2>
 
 <a href="https://github.com/hatimbenayad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=2EEA6B&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!" alt="Welcome to My GitHub Universe!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=2EEA6B&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!" alt="Welcome to My GitHub Lab!" />
 </a>
 
 </div>
 
-- 🤖 Building Android apps that help people every day.
-- 📖 Focused on learning and improving
-- 🌱 Enjoy working on a variety of projects
-- 🤝 Open to collaboration
-- 🔧 Offering services for Android Apps
+-  Building Android apps that help people every day.
+-  Focused on learning and improving
+-  Enjoy working on a variety of projects
+-  Open to collaboration
+-  Offering services for Android Apps
 
 <img src="https://komarev.com/ghpvc/?username=hatimbenayad&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
