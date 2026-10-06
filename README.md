@@ -3,7 +3,7 @@
 <h2> Hey Everyone, I'm Hatim</h2>
 
 <a href="https://github.com/hatimbenayad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=2EEA6B&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!" alt="Welcome to My GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=2EEA6B&center=true&vCenter=true&repeat=false&width=800&lines=%F0%9F%92%BB+Welcome+to+My+GitHub!" alt="Welcome to My GitHub!" />
 </a>
 
 </div>
